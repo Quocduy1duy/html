@@ -1,0 +1,18 @@
+.anh{
+    text-align: center;
+    width: 20% ;
+    height: 150px;
+    border: 2px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: yellow;
+    box-shadow: 5px;
+    
+}
+.bb{
+    text-align: center;
+}
+.anh:hover{
+    background-color: aqua;
+    box-shadow: 20px red;
+}

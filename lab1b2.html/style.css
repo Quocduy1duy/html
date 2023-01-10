@@ -1,0 +1,11 @@
+ .container{
+    text-align: center;
+}
+.image{
+    width: 200px;
+    height: 250px;
+}
+.boderImage{
+    border: 0.5px solid red;
+    border-radius: 20px;
+}

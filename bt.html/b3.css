@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color:yellow;
+    border: 3px solid orange;
+}
+.d>h2{
+    text-align: center;
+    color:black;
+    background: blue;
+}
+.duy{
+    text-align:left;
+}
+.d1{
+    text-align:right;
+}
+.d1>em{
+    background: blue;
+}

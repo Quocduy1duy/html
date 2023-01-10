@@ -1,0 +1,27 @@
+.hh{
+    text-align: center;
+}
+em{
+    font-variant: small-caps;
+    color : blue;
+    word-spacing:2px;
+    letter-spacing: 1px;
+    line-height: 25px;
+    font-size: 20px;
+
+}
+.pp{
+    color: red;
+}
+.texx1{
+    color: rgb(108, 30, 210);
+}
+h2{
+    color: white ;
+    text-shadow:0 0 5px rgb(25, 0, 255);
+
+}
+body{
+    text-align: center;
+
+}
